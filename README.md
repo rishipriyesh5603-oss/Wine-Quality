@@ -26,4 +26,4 @@ Features Used:
 
 🌐 Live Demo
 
-👉 Click Here to View App
+👉 Click Here to View App https://wine-quality.streamlit.app
